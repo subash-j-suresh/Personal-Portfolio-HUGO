@@ -1,0 +1,15 @@
+baseURL: ""
+languageCode: en-us
+title: My New Hugo Trial
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: catogeries
+      name: Catagories
+      url: /catagories/
+      weight: 10
+    - identifier: Tags
+      name: tags
+      url: /tags/
+      weight: 30
